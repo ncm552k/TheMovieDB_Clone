@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TheMovieDB_Clone/static/css/main.55916831.css",
+    "main.js": "/TheMovieDB_Clone/static/js/main.fc3887b9.js",
+    "static/js/981.0212f1c9.chunk.js": "/TheMovieDB_Clone/static/js/981.0212f1c9.chunk.js",
+    "static/js/29.f6302427.chunk.js": "/TheMovieDB_Clone/static/js/29.f6302427.chunk.js",
+    "static/js/642.9ec60506.chunk.js": "/TheMovieDB_Clone/static/js/642.9ec60506.chunk.js",
+    "static/js/4.3662f9b2.chunk.js": "/TheMovieDB_Clone/static/js/4.3662f9b2.chunk.js",
+    "static/media/ripple.gif": "/TheMovieDB_Clone/static/media/ripple.fe0a942c3e502ec99a1b.gif",
+    "static/media/ava.jpg": "/TheMovieDB_Clone/static/media/ava.8de07750bd831ee8bd77.jpg",
+    "static/media/MobileHeader.svg": "/TheMovieDB_Clone/static/media/MobileHeader.de1a664e8d0777ca4ddb2a5a298bcfb6.svg",
+    "static/media/PCHeader.svg": "/TheMovieDB_Clone/static/media/PCHeader.bf7f470b3821af1da7fa249c87dadea3.svg",
+    "static/media/fallBack.svg": "/TheMovieDB_Clone/static/media/fallBack.5964640064f7c380df0382f1eead26c3.svg",
+    "index.html": "/TheMovieDB_Clone/index.html",
+    "static/media/hover-dotImg.svg": "/TheMovieDB_Clone/static/media/hover-dotImg.5ca2de3ff56ea68c72868be678c1b9e3.svg",
+    "static/media/dotImg.svg": "/TheMovieDB_Clone/static/media/dotImg.1b7925ce866dd71fd3d91d4cfe9d3fef.svg",
+    "main.55916831.css.map": "/TheMovieDB_Clone/static/css/main.55916831.css.map",
+    "main.fc3887b9.js.map": "/TheMovieDB_Clone/static/js/main.fc3887b9.js.map",
+    "981.0212f1c9.chunk.js.map": "/TheMovieDB_Clone/static/js/981.0212f1c9.chunk.js.map",
+    "29.f6302427.chunk.js.map": "/TheMovieDB_Clone/static/js/29.f6302427.chunk.js.map",
+    "642.9ec60506.chunk.js.map": "/TheMovieDB_Clone/static/js/642.9ec60506.chunk.js.map",
+    "4.3662f9b2.chunk.js.map": "/TheMovieDB_Clone/static/js/4.3662f9b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55916831.css",
+    "static/js/main.fc3887b9.js"
+  ]
+}
