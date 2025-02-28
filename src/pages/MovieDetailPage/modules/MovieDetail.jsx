@@ -31,7 +31,6 @@ const MovieDetail = () => {
   const [open, setOpen] = React.useState(false)
   const handleOpen = () => setOpen(true)
   const handleClose = () => setOpen(false)
-  handleCors()
   const dataMovie = useSelector((state) => state.movie.value)
   const certificates = useSelector((state) => state.movie.certificates)
   const dataCrew = useSelector((state) => state.credit.crew)

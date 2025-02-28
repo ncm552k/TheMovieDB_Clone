@@ -100,7 +100,7 @@ const CardMovieMedium = ({ title, posterPath, releaseDate, id, score }, ref) => 
       </div>
       <div className='w-full relative whitespace-normal pt-[2.4rem] px-[1rem] pb-[1rem]'>
         <div className='absolute top-[-19px] left-4'>
-          <PercentBox type='small' percent={score * 10} />
+          <PercentBox type='small' percent={Math.round(score * 10)} />
         </div>
         <h2 className='font-bold hover:text-lightBlue text-normal w-fit line-clamp-2 leading-[1.2]'>
           <Link to={`/movie/${id}`}>{title}</Link>

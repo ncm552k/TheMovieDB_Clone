@@ -1,9 +1,8 @@
 {
   "name": "file-structure-v2",
-  "homepage": ".",
+  "homepage": "http://ncm552k.github.io/TheMovieDB_Clone",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3000",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
@@ -63,7 +62,9 @@
     "format:check:md": "prettier --check \"**/*.md\"",
     "lint-staged": "lint-staged",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -117,6 +118,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-storybook": "^0.6.11",
+    "gh-pages": "^6.3.0",
     "husky": "^8.0.3",
     "lint-staged": "^13.1.2",
     "postcss": "^8.4.21",
