@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TheMovieDB_Clone/static/css/main.55916831.css",
-    "main.js": "/TheMovieDB_Clone/static/js/main.fc3887b9.js",
+    "main.js": "/TheMovieDB_Clone/static/js/main.6e0fc8b5.js",
     "static/js/981.0212f1c9.chunk.js": "/TheMovieDB_Clone/static/js/981.0212f1c9.chunk.js",
     "static/js/29.f6302427.chunk.js": "/TheMovieDB_Clone/static/js/29.f6302427.chunk.js",
     "static/js/642.9ec60506.chunk.js": "/TheMovieDB_Clone/static/js/642.9ec60506.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/hover-dotImg.svg": "/TheMovieDB_Clone/static/media/hover-dotImg.5ca2de3ff56ea68c72868be678c1b9e3.svg",
     "static/media/dotImg.svg": "/TheMovieDB_Clone/static/media/dotImg.1b7925ce866dd71fd3d91d4cfe9d3fef.svg",
     "main.55916831.css.map": "/TheMovieDB_Clone/static/css/main.55916831.css.map",
-    "main.fc3887b9.js.map": "/TheMovieDB_Clone/static/js/main.fc3887b9.js.map",
+    "main.6e0fc8b5.js.map": "/TheMovieDB_Clone/static/js/main.6e0fc8b5.js.map",
     "981.0212f1c9.chunk.js.map": "/TheMovieDB_Clone/static/js/981.0212f1c9.chunk.js.map",
     "29.f6302427.chunk.js.map": "/TheMovieDB_Clone/static/js/29.f6302427.chunk.js.map",
     "642.9ec60506.chunk.js.map": "/TheMovieDB_Clone/static/js/642.9ec60506.chunk.js.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.55916831.css",
-    "static/js/main.fc3887b9.js"
+    "static/js/main.6e0fc8b5.js"
   ]
 }
